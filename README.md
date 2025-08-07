@@ -46,7 +46,7 @@ This project implements a robust machine learning pipeline to predict delivery t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/swiggy-delivery-time-prediction.git
+   git clone https://github.com/jitendra-121/swiggy-delivery-time-prediction.git
    cd swiggy-delivery-time-prediction
    ```
 
